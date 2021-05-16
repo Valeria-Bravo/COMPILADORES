@@ -1,0 +1,9 @@
+if ( 3 < b ) 
+{ 
+  b = 4 * 5 
+}
+while ( a <= 5 ) 
+{ 
+  a = 10 - b 
+}
+show ( "hola Mundo" )
